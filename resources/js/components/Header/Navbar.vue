@@ -44,7 +44,7 @@
                   <span
                     class="text-2xl text-white no-underline lg:text-black link-underline link-underline-blue"
                   >
-                    Home
+                    Main Home
                   </span>
                 </router-link>
               </li>
